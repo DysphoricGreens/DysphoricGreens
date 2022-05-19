@@ -1,5 +1,5 @@
 ### Hi there 👋, Hello, my name is DysphoricGreens
-![](blank)
+![](https://github.com/DysphoricGreens/DysphoricGreens/blob/main/DYsphoricGreens.png)
 
 I am an amateur developer doing this as a hobby and hoping to improve skills and maybe help some people in the future!
 
