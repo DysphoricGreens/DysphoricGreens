@@ -20,8 +20,5 @@ Skills: Node.JS / HTML & CSS / Discord.JS / Knowing how to upset people just by 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DysphoricGreens&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=DysphoricGreens&icon=6&color=1)](https://visitcount.itsvg.in)
